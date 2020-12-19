@@ -6,6 +6,8 @@ Make sure the following python modules are installed:
  - `requests`
  - `sys`
  - `os`
+ - `rich`
+ - `sys`
 
 ## Refrence
  - GeeksForGeeks
