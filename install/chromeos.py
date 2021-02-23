@@ -7,7 +7,7 @@ os.system("mkdir /apps/hop_files")
 
 # Copy HOP files
 os.system("cp ../repo.list /apps/hop_files")
-os.system("sudo cp ../package_data/main.py /usr/local/bin/hop")
+os.system("sudo cp ../package_data/chromeos.py /usr/local/bin/hop")
 os.system("sudo chmod +x /usr/local/bin/hop")
 
 # Install modules
